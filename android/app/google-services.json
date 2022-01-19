@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431046018061",
+    "project_id": "diagno-f5263",
+    "storage_bucket": "diagno-f5263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431046018061:android:c98f95e33e414521030144",
+        "android_client_info": {
+          "package_name": "com.ritish.NewsApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431046018061-leue97et94otke596ufvugko954pq088.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCPSMDNqJFYJYoA3JgHGhvptbDUN1qI7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431046018061-leue97et94otke596ufvugko954pq088.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
