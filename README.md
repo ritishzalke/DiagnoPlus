@@ -45,15 +45,9 @@ It uses **Firebase Authentication** to Sign Up and Login and **Firebase Database
 ## Languages and Technologies
 1.Dart 
 
-2.HTML
+2.Flutter
 
-3.Makefile
-
-4.Java
-
-5.Flutter
-
-6.Firebase
+3.Firebase
 
 
 ## Tools Used
