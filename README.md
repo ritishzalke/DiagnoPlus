@@ -100,7 +100,7 @@ Why feel pain and side effects of missing your medicines, when DIANO+ app can al
 <img src="https://drive.google.com/uc?export=view&id=1jX0scWrVEFjTRBpV40o86PSYGhq61Uda"  width="250" height="540"/>    <img src= "https://drive.google.com/uc?export=view&id=1T83gsWVpnIiYnUn-PQJ5iCpC6ppLXblh"  width="250" height="540"/> 
 
 ## Profile
-<img src="https://drive.google.com/uc?export=view&id=1TFWA4JjaLy4079TFo_0SpAm07c_u_zXq"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1kEP6gQExDFoNM-lx4w5Z80Mr5ntpr7kF"  width="250" height="540"/> 
 
 ## Appoitment Page
 <img src= "https://drive.google.com/uc?export=view&id=1j7Zz7ee9fBl9xzqQjSlRyE4h2FxGg1cN"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1joQr7rL4ioZ353gN22jFs3T1Pk9OkGl4"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1jGZNB44gIaZAbo23OHQJFQ7bBXzUPv3H"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1jDy8naQQMZpz3KBG0ly3wkm_snXypCEU"  width="250" height="540"/>
