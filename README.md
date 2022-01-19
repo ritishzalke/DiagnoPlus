@@ -117,3 +117,7 @@ Why feel pain and side effects of missing your medicines, when DIANO+ app can al
 ## Demo Recording and apk file
 
 https://drive.google.com/drive/folders/1t9E1gUFWgu8jsA4Boe9rY2UH50XW5Dla?usp=sharing
+
+## Github Repository
+
+https://github.com/ritishzalke/DiagnoPlus
