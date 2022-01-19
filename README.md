@@ -1,6 +1,11 @@
-# Diagno+
-
-Team name: Hackstreet Boyz
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1tYP1GElUFhBV3ySgWUJM-gLdDzipeJ3S" alt="Logo" width=72 height=72>
+  <h3 align="center">DIAGNO+</h3>
+  <p align="center">
+    Diagnosis app with Flutter that uses Firebase
+    <br>
+  </p>
+</p>  
 
 ## Team members
 
@@ -29,6 +34,26 @@ chaitanyad192002@gmail.com
 [Bhavya Mehta](https://github.com/bhavya092)
 
 [Chinmay Janwalkar](https://github.com/chinmayj24)
+
+
+## How to Use 
+
+**Step 1:**
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/ritishzalke/DiagnoPlus.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
+
 
 ## Description
 
@@ -88,7 +113,7 @@ Why feel pain and side effects of missing your medicines, when DIANO+ app can al
 Here is the core folder structure which flutter provides.
 
 ```
-flutter-app/
+DiagnoPlus/
 |- android
 |- build
 |- ios
@@ -158,3 +183,8 @@ https://drive.google.com/drive/folders/1t9E1gUFWgu8jsA4Boe9rY2UH50XW5Dla?usp=sha
 ## Github Repository
 
 https://github.com/ritishzalke/DiagnoPlus
+
+
+## Conclusion
+
+We will be happy to answer any questions that you may have regarding the app, and if you have any suggestions for improving the app kindly mail us or contact us on LinkedIn.
