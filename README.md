@@ -9,12 +9,11 @@
 
 ## Team members
 
+[Ritish Zalke](https://github.com/ritishzalke) -
+ritishzalke@gmail.com
 
 [Soham Chaudhari](https://github.com/Soham0779) -
 soham13302@gmail.com
-
-[Ritish Zalke](https://github.com/ritishzalke) -
-ritishzalke@gmail.com
 
 [Nirbhay Nikam](https://github.com/NiRbhay22) - 
 niknirbhay@gmail.com
